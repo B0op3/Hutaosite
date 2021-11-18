@@ -1,36 +1,33 @@
 body {
-    font-size: 17px;
-    color: #000;
-    margin: 0;
-    -ms-overflow-style: none
+	font-size: 17px;
+	color: #000;
+	margin: 0;
+	-ms-overflow-style: none
 }
-
 body::-webkit-scrollbar {
-    display: none;
+	display: none;
 }
-
-.huTao{
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    position: fixed;
-    filter: brightness(50%);
+.huTao {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	position: fixed;
+	filter: brightness(50%);
 }
-
 .content {
-    font-family: "Arial";
-    position: relative;
-    color: white;
-    padding-top: 1px;  
-    padding-left: 15px;
-    padding-right: 15px;
+	text-align: center;
+	font-family: "Arial";
+	position: relative;
+	color: white;
+	padding-top: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
 }
-
 .idk {
-    bottom: 0px;
-    width: 100%;
-    position: relative;
-    color: white;
-    font-family: Helvetica;
-    font-weight: bold;
+	bottom: 0px;
+	width: 100%;
+	position: relative;
+	color: white;
+	font-family: Helvetica;
+	font-weight: bold;
 }
